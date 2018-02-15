@@ -11,6 +11,7 @@ Done.
 
 # Usage
 In terminal type- 
-~% searchfast [location] [search string]
+
+searchfast [location] [search string]
 
 # Enjoy
