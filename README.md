@@ -10,6 +10,6 @@ Done.
 
 # Usage
 In terminal type- 
-~% search-fast [location] [search string]
+~% searchfast [location] [search string]
 
 # Enjoy
