@@ -4,6 +4,7 @@ A simple and fast solution for linux file search.
 Open terminal and type
 
 ~$ git clone https://github.com/by-sabbir/searchfast.git
+.
 ~$ bash install.sh
 
 Done. 
