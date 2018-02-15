@@ -1,4 +1,4 @@
 #!/bin/bash
 
 sudo chmod +x searchfast
-sudo cp searchfast /bin/
+sudo cp -rv searchfast /bin/
