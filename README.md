@@ -12,4 +12,6 @@ In terminal type-
 
 searchfast [location] [search string]
 
-# Enjoy
+# Bugs
+Cannot open file with two white spaces.
+(But certainly can find and locate them)
